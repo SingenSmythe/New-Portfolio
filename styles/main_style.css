@@ -6,6 +6,10 @@ html {
   margin: 0;
 }
 
+#main-header {
+  position: relative;
+}
+
 .bgimg {
   -webkit-animation: color-change-2x 3s linear 1s alternate both;
   animation: color-change-2x 3s linear 1s alternate both;
